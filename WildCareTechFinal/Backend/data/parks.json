@@ -1,0 +1,15 @@
+[{
+        "name": "Indira Gandhi Zoological Park",
+        "location": "Goa",
+        "openingTime": "0900",
+        "closingTime": "2000",
+        "types": ["Giraffee", "Cheetah", "Tiger", "Lion"]
+    },
+    {
+        "name": "Nehru Zoological Park",
+        "location": "Mumbai",
+        "openingTime": "0600",
+        "closingTime": "1800",
+        "types": ["Giraffee", "Cheetah", "Tiger", "Lion"]
+    }
+]

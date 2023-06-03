@@ -1,0 +1,21 @@
+[{
+        "name": "qwert",
+        "degree": "MBBS",
+        "specialization": "wildlide",
+        "fees": "2000",
+        "experience": "7 years",
+        "contactNumber": "1987654321",
+        "availability": "No",
+        "location": "Gerusarai"
+    },
+    {
+        "name": "qwert",
+        "degree": "MBBS",
+        "specialization": "wildlide_care",
+        "fees": "1000",
+        "experience": "5 years",
+        "contactNumber": "1234567890",
+        "availability": "Yes",
+        "location": ["Girigaun", "Dholakpur"]
+    }
+]

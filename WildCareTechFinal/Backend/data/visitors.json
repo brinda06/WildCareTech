@@ -1,0 +1,13 @@
+[{
+        "name": "Abcs",
+        "phoneNumber": "1234567890",
+        "mailID": "abcd@gmail.com",
+        "dateOfVisit": "31/12/2002"
+    },
+    {
+        "name": "Abcdd",
+        "phoneNumber": "1739562940",
+        "mailID": "abcdd@gmail.com",
+        "dateOfVisit": "13/02/2020"
+    }
+]

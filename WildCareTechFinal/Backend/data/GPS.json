@@ -1,0 +1,20 @@
+[{
+        "barnumber": "29882",
+        "animalName": "Zanger",
+        "animalType": "Big cat",
+        "location": "Savannah",
+        "bodyTemper": 72,
+        "bloodPressure": "140/60",
+        "heartRate": 60
+    },
+    {
+        "barnumber": "17202",
+        "animalName": "Apolo",
+        "animalType": "Rhino",
+        "location": "Grassland",
+        "bodyTemper": 80,
+        "bloodPressure": "160/40",
+        "heartRate": 72
+
+    }
+]

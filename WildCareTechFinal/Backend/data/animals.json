@@ -1,0 +1,11 @@
+{
+    "Monkey": {
+        "number": 55,
+        "description": "A tailed mammal"
+    },
+
+    "Elephant": {
+        "number": 10,
+        "description": "Largest land mammal"
+    }
+}
